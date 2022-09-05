@@ -91,7 +91,7 @@ if (codigoFormatado) {
 
 **Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora sua `primeira missão` é [acessar a Issue](https://github.com/vemsertech/trilha-qa/issues/1) e adicionar um novo comentário nela se apresentando para a galera. Diga seu nome completo e de qual área você está vindo 😜
 
-**Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui na CWI 🤘
+**Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui 🤘
 
 > Tentaremos responder todas as dúvidas o mais rápido possível, mas pode ser difícil atender a todos se houver muitas questões. Por isso mesmo, é essencial que você pesquise e corra atrás da solução também. Tenha em mente que o autodidatismo é super importante e muito valorizado na TI.
 
