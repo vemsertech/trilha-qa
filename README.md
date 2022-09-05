@@ -1,4 +1,4 @@
-![Logo Reset](assets/boas_vindas.jpeg)
+![bitmoji](assets/boas_vindas.jpeg)
 
 # Bem-vindo(a) jovem Padawan!
 
